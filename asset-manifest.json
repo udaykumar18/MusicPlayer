@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MusicPlayer/static/css/main.053036a2.css",
+    "main.js": "/MusicPlayer/static/js/main.36c7afaa.js",
+    "static/media/testsong.mp3": "/MusicPlayer/static/media/testsong.bd83d56e72e07ed91b25.mp3",
+    "index.html": "/MusicPlayer/index.html",
+    "main.053036a2.css.map": "/MusicPlayer/static/css/main.053036a2.css.map",
+    "main.36c7afaa.js.map": "/MusicPlayer/static/js/main.36c7afaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.053036a2.css",
+    "static/js/main.36c7afaa.js"
+  ]
+}
